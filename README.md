@@ -1,2 +1,7 @@
 # AI-E-Portfolio
-This is a complete E-Portfolio that covers the various projects I did under Artificial Intelligence course for Fall 2023 Semester
+This repository contains projects completed as part of the AI course during the Fall 2023 semester. The projects cover various topics in Artificial Intelligence, including ChatBot, Expert System, Simple Reflex Agent, KNN (Classifier, Regressor, and MultiLinearRegressor), Uninformed Search Strategies, Natural Language Processing, Sentiment Analysis, and Game Playing.
+
+
+# Acknowledgments:
+Special thanks to Dr. Isaac Osunmakinde for guidance and support during the AI course.
+
